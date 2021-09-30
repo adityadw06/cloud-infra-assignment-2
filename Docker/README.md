@@ -7,7 +7,7 @@
 *  Screenshot for running Jupyter notebook that is provided from this docker image - Jupyter_browser_run
 *  Deploy your first docker container to Kubernetes Engine on GCP - Kubernetes_Hello_World_Log
 
-Commands run are also included in the folder and step & configuration screenshots are included in the additional folder.
+Commands run are also included in the folder and step & configuration screenshots are included in the more_images folder.
 
 ## Docker-Hub URL: 
 https://hub.docker.com/r/adityadw/hellopython
